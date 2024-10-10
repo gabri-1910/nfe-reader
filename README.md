@@ -1,2 +1,2 @@
 # nfe-reader
-The goal of this project is to read a xml file.
+The main objective of this project is to create a script that can read and analyze data from electronic invoices.
